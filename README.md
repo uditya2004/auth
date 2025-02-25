@@ -1,4 +1,4 @@
-# Auth - Jetpack Compose Authentication with Supabase
+# Jetpack Compose Authentication with Supabase
 
 A modern Android authentication app built with **Jetpack Compose** and **Supabase**. This project demonstrates a complete authentication flow, including email/password login, Google Sign-In, sign-up, OTP verification, and password reset functionality. It leverages the power of **Kotlin**, **Supabase**, and **Koin** for dependency injection, providing a clean and scalable architecture.
 
