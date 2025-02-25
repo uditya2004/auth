@@ -71,19 +71,20 @@ A modern Android authentication app built with **Jetpack Compose** and **Supabas
    - Run the app on an emulator or physical device (min SDK 26).
 
 ## Project Structure
+
 auth/
 ├── app/
 │   ├── src/
 │   │   ├── main/
 │   │   │   ├── java/com/example/auth/
-│   │   │   │   ├── auth/               # Authentication logic
-│   │   │   │   ├── di/                 # Dependency Injection with Koin
-│   │   │   │   ├── homePage/           # Home screen after login
-│   │   │   │   └── ui/                 # Theme and UI components
-│   │   ├── res/                        # Resources (drawables, values)
-│   └── build.gradle.kts                # App module build configuration
-├── gradle/                             # Gradle wrapper files
-└── README.md                           # This file
+│   │   │   │   ├── auth/        # Authentication logic
+│   │   │   │   ├── di/          # Dependency Injection with Koin
+│   │   │   │   ├── homePage/    # Home screen after login
+│   │   │   │   └── ui/          # Theme and UI components
+│   │   ├── res/                 # Resources (drawables, values)
+│   └── build.gradle.kts         # App module build configuration
+├── gradle/                      # Gradle wrapper files
+└── README.md                    # This file
 
 ## Usage
 
