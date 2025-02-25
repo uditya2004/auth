@@ -111,7 +111,4 @@ This project is licensed under the MIT License.
 
 Android, Jetpack Compose, Supabase, Authentication, Kotlin, Koin, Google Sign-In, OTP Verification, Material 3, Coroutines, Navigation, Dependency Injection, Password Reset, Mobile Development, Open Source
 
----
-
 Built with ❤️ by [Uditya Kumar](https://github.com/uditya2004)
-```
