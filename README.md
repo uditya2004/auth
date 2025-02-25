@@ -8,16 +8,17 @@ A modern Android authentication app built with **Jetpack Compose** and **Supabas
 
 ## Features
 
-- **Email/Password Auth** with Supabase.
-- **Google Sign-In** via Android Credential Manager.
-- **OTP Verification** for account confirmation and password reset.
-- **Password Reset** with OTP-based flow.
-- **Jetpack Compose UI** using Material 3.
-- **Smooth Navigation** with animations.
-- **Koin Dependency Injection** for modular code.
-- **Robust Validation** for user inputs.
-- **Supabase Integration** for backend auth.
-- **Responsive Design** following Material guidelines.
+- ✅ **Email/Password Auth** with Supabase  
+- ✅ **Google Sign-In** via Android Credential Manager  
+- ✅ **OTP Verification** for account confirmation and password reset  
+- ✅ **Password Reset** with OTP-based flow  
+- ✅ **Jetpack Compose UI** using Material 3  
+- ✅ **Smooth Navigation** with animations  
+- ✅ **Koin Dependency Injection** for modular code  
+- ✅ **Robust Validation** for user inputs  
+- ✅ **Supabase Integration** for backend auth  
+- ✅ **Responsive Design** following Material guidelines  
+
 
 ## Tech Stack
 
