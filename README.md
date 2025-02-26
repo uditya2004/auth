@@ -6,11 +6,12 @@ A modern Android authentication app built with **Jetpack Compose** and **Supabas
 
 Here are some screenshots of the app:
 
-<img src="app/src/main/java/com/example/auth/screenshots/1.jpg" width="300">
-<img src="app/src/main/java/com/example/auth/screenshots/2.jpg" width="300">
-<img src="app/src/main/java/com/example/auth/screenshots/3.jpg" width="300">
-<img src="app/src/main/java/com/example/auth/screenshots/4.jpg" width="300">
-
+<p align="center">
+  <img src="assets/1.jpg" width="300">
+  <img src="assets/2.jpg" width="300">
+  <img src="assets/3.jpg" width="300">
+  <img src="assets/4.jpg" width="300">
+</p>
 
 ## Features
 
