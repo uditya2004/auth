@@ -3,10 +3,13 @@
 A modern Android authentication app built with **Jetpack Compose** and **Supabase**. This project demonstrates a complete authentication flow, including email/password login, Google Sign-In, sign-up, OTP verification, and password reset functionality. It leverages the power of **Kotlin**, **Supabase**, and **Koin** for dependency injection, providing a clean and scalable architecture.
 
 ## Screenshots
-<img src="app/src/main/java/com/example/auth/screenshots/1.jpg" width="150">
-<img src="app/src/main/java/com/example/auth/screenshots/2.jpg" width="150">
-<img src="app/src/main/java/com/example/auth/screenshots/3.jpg" width="150">
-<img src="app/src/main/java/com/example/auth/screenshots/4.jpg" width="150">
+<div align="left">
+  <img src="app/src/main/java/com/example/auth/screenshots/1.jpg" width="150">
+  <img src="app/src/main/java/com/example/auth/screenshots/2.jpg" width="150">
+  <img src="app/src/main/java/com/example/auth/screenshots/3.jpg" width="150">
+  <img src="app/src/main/java/com/example/auth/screenshots/4.jpg" width="150">
+</div>
+
 
 ## Features
 
